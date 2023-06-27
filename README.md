@@ -14,9 +14,10 @@ Para esto se utilizó Twint con la siguiente configuración de parámetros.
 
 Esta parte consta de 3 partes:
 
-1. En la primera se busca completar los tweets de algunos días faltantes en el scrapping. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/1-tweets-completition.ipynb)
-2. Luego se hace un procesamientos del texto de los tweets, los cuales serán la entrada para el modelado de tópicos. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/2-preprocessing.ipynb)
-3. Y finalmente los hashtags de los tweets para el análisis final. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/3-hashtags-extration.ipynb)
+1. Se completan los tweets de algunos días faltantes en el scrapping. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/1-tweets-completition.ipynb)
+2. Se hace un procesamientos del texto de los tweets, los cuales serán la entrada para el modelado de tópicos. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/2-preprocessing.ipynb)
+3. Se extraen los hashtags de los tweets para el análisis de tendencias final. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/3-hashtags-extration.ipynb)
+4. Se hace el modelamiento de tópicos y la generación de tópicos, usados para el análisis de tendencias final. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/4-top2vec.ipynb)
 
 ## Topic Modelling
 
