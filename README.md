@@ -10,6 +10,10 @@ Para esto se utilizó Twint con la siguiente configuración de parámetros.
   <img src="https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/images/scrapping-parameters.png" alt="scrapping parameters" width="300px" height="200px" align="center">
 </p>
 
+## Data Manipulation
+
+Esta parte consta de 3 partes. En la primera se busca completar los tweets de algunos días faltantes en el scrapping. Luego se hace un procesamientos del texto de los tweets, los cuales serán la entrada para el modelado de tópicos. Y finalmente los hashtags de los tweets para el análisis final.
+
 ## Topic Modelling
 
 Cada uno de los topicos tiene un conjunto de palabras que más lo representan, los cuales tienen un valor de probabilidad. Mientras más alto sea el valor de probabilidad, mayor sera la probabilidad de que en ese tópico se hable sobre esa palabra.
