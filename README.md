@@ -2,9 +2,9 @@
 
 Lo que se busca con este trabajo es analizar las tendencias generadas por los #hashtags, y ponerlas en contraste con las tendencias generadas con el uso del modelado de tópicos. Para esto se usará como caso de estudio las tendencias relacionadas al presidente de la republica del Perú.
 
-## Data Scrapping
+## Tweets Scrapping
 
-For this, vamos a usar tweets durante relacionados al presidente de la republica del Perú, Pedro Castillo, entre el 28 de julio del 2021 al 30 de abril del 2022.
+Para esto se utilizó Twint con la siguiente configuración de parámetros.
 
 ## Topic Modelling
 
