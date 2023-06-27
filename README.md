@@ -19,10 +19,6 @@ Esta parte consta de 3 partes:
 3. Se extraen los hashtags de los tweets para el análisis de tendencias final. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/3-hashtags-extration.ipynb)
 4. Se hace el modelamiento de tópicos y la generación de tópicos, usados para el análisis de tendencias final. [notebook](https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/4-top2vec.ipynb)
 
-## Topic Modelling
-
-Cada uno de los topicos tiene un conjunto de palabras que más lo representan, los cuales tienen un valor de probabilidad. Mientras más alto sea el valor de probabilidad, mayor sera la probabilidad de que en ese tópico se hable sobre esa palabra.
-
 ## Insights
 
 De entre los tópicos utilizados, se busca los documentos que contengan cierta palabra como tópico.
