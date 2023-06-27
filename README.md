@@ -6,6 +6,10 @@ Lo que se busca con este trabajo es analizar las tendencias generadas por los #h
 
 Para esto se utilizó Twint con la siguiente configuración de parámetros.
 
+<p align="center">
+  <img src="https://github.com/Ajmyquira/tweets-topic-modelling/blob/master/images/scrapping-parameters.png" alt="scrapping parameters" width="300px" height="200px" align="center">
+</p>
+
 ## Topic Modelling
 
 Cada uno de los topicos tiene un conjunto de palabras que más lo representan, los cuales tienen un valor de probabilidad. Mientras más alto sea el valor de probabilidad, mayor sera la probabilidad de que en ese tópico se hable sobre esa palabra.
